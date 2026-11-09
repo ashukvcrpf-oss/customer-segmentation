@@ -5,6 +5,7 @@ Author: Ashutosh Behera | Data Scientist | Bandhan Bank Ltd
 Loads K-Means centroids from S3.
 Assigns segment to any new customer using centroid mapping.
 No retraining needed — instant assignment in milliseconds.
+This is for the Bandhan Bank employees to get the banking experience.
 """
 
 import pandas as pd
